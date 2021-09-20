@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DreamCatcher</string>
+    <string name="dream_title_hint">Enter a title for the dream.</string>
+    <string name="dream_title_label">Title</string>
+    <string name="dream_entries_label">Entries</string>
+    <string name="dream_fulfilled_label">fulfilled</string>
+    <string name="dream_deferred_label">deferred</string>
+    <string name="new_dream">New Dream</string>
+    <string name="delete_all_dreams">Delete All Dreams</string>
+    <string name="share_dream">Share Dream</string>
+    <string name="dream_photo">Dream Photo</string>
+    <string name="dream_report_fulfilled">The dream is fulfilled.</string>
+    <string name="dream_report_unlfilled">The dream is not fulfilled.</string>
+    <string name="dream_report_deferred">The dream has been deferred.</string>
+    <string name="dream_report_undeferred">The dream is on progress.</string>
+    <string name="dream_report_date">The dream was conceived on %s.</string>
+    <string name="send_report">Send dream report via</string>
+    <string name="dream_report_subject">Dream Catcher Dream Report</string>
+    <string name="dream_report_ref">"Dream reflections: "</string>
+
+</resources>
